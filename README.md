@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antton-t
 - 👀 I’m interested in C / C++
-- 🌱 I’m currently learning NestJs Angular
+- 🌱 I’m currently learning Pyhton
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me antton-t@student.42.fr
 
